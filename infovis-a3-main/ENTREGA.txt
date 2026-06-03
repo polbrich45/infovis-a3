@@ -1,0 +1,17 @@
+Assignment 3 - Interactive Information Visualization
+
+Integrantes:
+- [NOMBRE 1]
+- [NOMBRE 2] (si aplica)
+
+Link al fork publico:
+- https://github.com/[TU-USUARIO]/infovis-a3
+
+Resumen de implementacion:
+- Parallel Coordinates Plot con ejes verticales
+- Scatterplot Matrix con diagonal invertida (secundaria)
+- Linked brushing entre PCP y SPLOM usando CustomEvent
+
+Uso de IA:
+- Modelo: GPT-5.3-Codex (GitHub Copilot)
+- Uso: ayuda para estructurar e implementar PCP, SPLOM, inversion de diagonal y sincronizacion de brushing mediante eventos personalizados.
